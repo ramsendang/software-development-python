@@ -3,4 +3,8 @@
 print("hello world")
 
 #something slight more interesting
-print("Hello, Paul")
+#Print("Hello, Paul")
+
+#asking for input from a user
+myName = input("What is your name?")
+print("hello: ", myName)
